@@ -1,0 +1,19 @@
+body{
+    margin-bottom: 50px;
+}
+input, button{
+    margin: 5px auto;
+    border: 1px solid #636262;
+    padding: 8px 5px;
+    width: 300px;
+    display: block;
+}
+.login{
+    text-align: center;
+    font-family: sans-serif;
+}
+button{
+    border: none;
+    background-color: blue;
+    color: white;
+}
